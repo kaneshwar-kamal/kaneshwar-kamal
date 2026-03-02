@@ -1,13 +1,8 @@
-## Hi there 👋
-
 <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" width="350" alt="developer coding illustration">
 
 # 👋 Hi there, I'm Kamal Kaneshwar
 
-💻 **Level 5 Computer Science Undergraduate @ IIT | University of Westminster** 📱 *Specializing in Android & Cross-Platform Mobile Development* 🎯 
-*Actively seeking a Mobile Development Internship* ### 
-
-🚀 About Me
+💻 **Computer Science Undergraduate @ IIT | University of Westminster** 📱 *Specializing in Android & Cross-Platform Mobile Development* ### 🚀 About Me
 * 🌱 **Deep diving into:** Kotlin (Jetpack Compose), Flutter, and Spring Boot for robust backend integration.
 
 ### 💼 Tech Stack
@@ -27,9 +22,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/kaneshwar-kamal-52b195289/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<br><br>
+<a href="mailto:kaneshwarkamal06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
