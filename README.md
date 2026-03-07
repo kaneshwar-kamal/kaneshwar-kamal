@@ -2,7 +2,9 @@
 
 # 👋 Hi there, I'm Kamal Kaneshwar
 
-💻 **Computer Science Undergraduate @ IIT | University of Westminster** 📱 *Specializing in Android & Cross-Platform Mobile Development* ### 🚀 About Me
+💻 **Computer Science Undergraduate @ IIT | University of Westminster** 📱 *Specializing in Android & Cross-Platform Mobile Development* ### 
+
+🚀 About Me
 * 🌱 **Deep diving into:** Kotlin (Jetpack Compose), Flutter, and Spring Boot for robust backend integration.
 
 ### 💼 Tech Stack
